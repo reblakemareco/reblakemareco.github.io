@@ -468,15 +468,15 @@
                 "title": "ingestr:<br>reading environmental data from raw formats into dataframes",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Portland, Oregon<br>February 12-16, 2018",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/presentation_agu_2019_2.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Talk</a>",
+                "text": "San Francisco<br>December 2019",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/presentation_agu_2019_2.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Slides</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#232323",
-                "textTitle": "Ocean Sciences Meeting"
+                "textTitle": "American Geophysical Union"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture4-1-1275x957.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -485,14 +485,15 @@
                 "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "Mussel abundance is driven by environmental factors \r<div>across scales in the central Gulf of Alaska\r</div>",
+                "title": "Temporal and spatial patterns in the central Gulf of Alaska groundfish community",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Santa Cruz, CA \n<br>May 6, 2017&nbsp;",
+                "text": "Portland, OR<br>February 2018",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/Blake_OSM_2018_Poster_Draft2.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Poster</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#232323",
-                "textTitle": "Conservation Biology Symposium"
+                "textTitle": "Ocean Sciences Meeting",
+                "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture2-1-2000x1125.png",
@@ -505,18 +506,19 @@
                 "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "Temporal and spatial patterns in the central Gulf of Alaska groundfish community\r",
+                "title": "Mussel abundance is driven by environmental factors <div>across scales in the central Gulf of Alaska</div>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Portland, OR &nbsp;<br>Nov 8-13, 2015&nbsp;",
+                "text": "Santa Cruz, CA &nbsp;<br>May 2017",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/Abstract_SCB_SC_May_2017.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Abstract</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#232323",
-                "textTitle": "Coastal &amp; Estuarine Research Federation"
+                "textTitle": "Conservation Biology Meeting",
+                "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/synthesis-case-study-1207x782.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
