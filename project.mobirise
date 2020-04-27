@@ -456,7 +456,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/logo-ingestr-9-1724x1286.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -518,7 +518,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/synthesis-case-study-1207x782.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -527,14 +527,15 @@
                 "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "Synthetic ecology across scales: a Gulf of Alaska case study\r",
+                "title": "Synthetic ecology across scales: a Gulf of Alaska case study",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Portland, OR &nbsp;<br>Nov 8-13, 2015&nbsp;",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/CERF 2015_Poster.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Poster</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#232323",
-                "textTitle": "Coastal &amp; Estuarine Research Federation"
+                "textTitle": "Coastal &amp; Estuarine Research Federation",
+                "alt": ""
               }
             ]
           }
