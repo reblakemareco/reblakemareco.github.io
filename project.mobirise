@@ -451,12 +451,12 @@
           "_once": false,
           "_params": {
             "slides__autoplay": "true",
-            "slides__autoplayInterval": "4000",
+            "slides__autoplayInterval": "3000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/logo-ingestr-9-1724x1286.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -468,11 +468,11 @@
                 "title": "ingestr:<br>reading environmental data from raw formats into dataframes",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "American Geophysical Union Meeting<br>San Francisco, CA &nbsp;<br>Dec 10, 2019",
+                "text": "Portland, Oregon<br>February 12-16, 2018",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/presentation_agu_2019_2.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Talk</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#232323",
-                "textTitle": ""
+                "textTitle": "Ocean Sciences Meeting"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture4-1-1275x957.jpg",
@@ -488,10 +488,11 @@
                 "title": "Mussel abundance is driven by environmental factors \r<div>across scales in the central Gulf of Alaska\r</div>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Ocean Sciences Meeting<br>Portland, Oregon<br>February 12-16, 2018",
+                "text": "Santa Cruz, CA \n<br>May 6, 2017&nbsp;",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/Blake_OSM_2018_Poster_Draft2.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Poster</a>",
                 "overlayOpacity": "0.6",
-                "overlayColor": "#232323"
+                "overlayColor": "#232323",
+                "textTitle": "Conservation Biology Symposium"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture2-1-2000x1125.png",
@@ -507,14 +508,15 @@
                 "title": "Temporal and spatial patterns in the central Gulf of Alaska groundfish community\r",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Conservation Biology Symposium \n<br>Santa Cruz, CA \n<br>May 6, 2017&nbsp;",
+                "text": "Portland, OR &nbsp;<br>Nov 8-13, 2015&nbsp;",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/Abstract_SCB_SC_May_2017.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Abstract</a>",
                 "overlayOpacity": "0.6",
-                "overlayColor": "#232323"
+                "overlayColor": "#232323",
+                "textTitle": "Coastal &amp; Estuarine Research Federation"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/synthesis-case-study-1207x782.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -526,10 +528,11 @@
                 "title": "Synthetic ecology across scales: a Gulf of Alaska case study\r",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Coastal &amp; Estuarine Research Federation<br>Portland, OR &nbsp;<br>Nov 8-13, 2015&nbsp;",
+                "text": "Portland, OR &nbsp;<br>Nov 8-13, 2015&nbsp;",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"assets/files/CERF 2015_Poster.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Poster</a>",
                 "overlayOpacity": "0.6",
-                "overlayColor": "#232323"
+                "overlayColor": "#232323",
+                "textTitle": "Coastal &amp; Estuarine Research Federation"
               }
             ]
           }
