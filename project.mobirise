@@ -53,7 +53,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Rachael E. Blake",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -456,7 +456,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/logo-ingestr-9-1724x1286.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -476,7 +476,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture4-1-1275x957.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
