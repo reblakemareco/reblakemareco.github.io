@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rachael E. Blake
-email: rachaelblakemarineecology@google.com
+email: rachaelblakemarineecology@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rachael E. Blake
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "rachaeleblake.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  reblake
 
 # Build settings
-remote_theme: reblakemareco/freelancer-theme
+remote_theme: reblakemareco/ubuild-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
